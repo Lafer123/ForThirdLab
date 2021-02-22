@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 Hello.Wolrd
-Update
+Update file 2.0
 project(Lab3 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 11)
